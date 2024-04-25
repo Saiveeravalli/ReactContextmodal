@@ -1,0 +1,15 @@
+.con-box {
+  background-color: #475569;
+  height: 25vh;
+  background-size: cover;
+  font-family: Roboto;
+
+  padding: 20px;
+}
+.main-heading {
+  font-size: 25px;
+  color: #ffffff;
+}
+.in-1 {
+  margin: 5px;
+}
